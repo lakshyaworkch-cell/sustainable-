@@ -1,5 +1,6 @@
+
 numpy>=1.26
-pandas>=2.1
+pandas>=2.2
 requests>=2.31
 yfinance>=0.2.40
 statsmodels>=0.14
@@ -7,4 +8,6 @@ scipy>=1.11
 arch>=7.0
 matplotlib>=3.8
 streamlit>=1.35
+altair>=5.0
+plotly>=5.20
 pytest>=8.0
